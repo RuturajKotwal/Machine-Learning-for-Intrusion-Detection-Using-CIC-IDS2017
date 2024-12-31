@@ -34,10 +34,10 @@ This project focuses on enhancing Intrusion Detection Systems (IDS) using advanc
 ---
 
 ## **Contributors**
-- [**Ruturaj Jayant Kotwal**](mailto:ruturaj.kotwal@hof-university.de)  
+- [**Ruturaj Jayant Kotwal**](mailto:rkotwal@hof-university.de)  
   MSc Artificial Intelligence and Robotics  
   Hof University of Applied Sciences, Germany  
 
-- [**Advait Santosh Lanjekar**](mailto:advait.lanjekar@hof-university.de)  
+- [**Advait Santosh Lanjekar**](mailto:alanjekar@hof-university.de)  
   MSc Artificial Intelligence and Robotics  
   Hof University of Applied Sciences, Germany  
